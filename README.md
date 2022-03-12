@@ -9,5 +9,6 @@ dataset. The experimental results show that Logistic Regression outperforms othe
 machine learning techniques could be used to study the sentiment of tweets which gives reasonable results.
 
 Coronavirus (covid19) Tweets link: https://www.kaggle.com/smid80/coronavirus-covid19-tweet
+
 COVID19 Global Forecasting link: https://www.kaggle.com/c/covid19-global-forecasting-week-4
 
