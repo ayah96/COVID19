@@ -8,6 +8,9 @@ Naive base, Support Vector Machine, and Logistic Regression as well as RoBERTa m
 dataset. The experimental results show that Logistic Regression outperforms other classifiers with an accuracy of 0.86%, thus,
 machine learning techniques could be used to study the sentiment of tweets which gives reasonable results.
 
+
+# Datasets links
+
 Coronavirus (covid19) Tweets link: https://www.kaggle.com/smid80/coronavirus-covid19-tweet
 
 COVID19 Global Forecasting link: https://www.kaggle.com/c/covid19-global-forecasting-week-4
